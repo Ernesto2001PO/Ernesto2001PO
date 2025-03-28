@@ -5,8 +5,10 @@
 - 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
 - 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
 - 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in ****
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏡'Lives in **Santa Cruz - Bolvia**'
+- ⚡ **Fun Facts** : 🍕 🏉 🎥 🚞 ![icons8-gym-16 (1)](https://github.com/user-attachments/assets/e9ac6850-db74-4625-a5b4-e30ef25ea649)
+
+
 
 
 

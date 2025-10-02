@@ -17,8 +17,8 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://github.com/user-attachments/assets/d5acec3f-1af6-4342-80fe-92ff4f98a098"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
-<img src="https://github.com/user-attachments/assets/392a2bf7-0d51-455b-bd47-f13dc71ed27e"/>  
-<img src="https://github.com/user-attachments/assets/d5d27c66-40d5-48cb-b605-7afa6d13625d"/> 
+<img src="https://github.com/user-attachments/assets/392a2bf7-0d51-455b-bd47-f13dc71ed27e"/>
+<img src="https://icons.iconarchive.com/icons/aniket-suvarna/box-logo/48/bxl-spring-boot-icon.png">
 <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
 
